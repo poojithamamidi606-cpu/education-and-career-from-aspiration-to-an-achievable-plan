@@ -1,0 +1,12 @@
+{
+  "educationPath": {
+    "currentEducation": "",
+    "currentYear": "",
+    "targetCareer": "",
+    "recommendedCourses": [],
+    "recommendedDegrees": [],
+    "higherEducationOptions": [],
+    "entranceExams": [],
+    "certifications": []
+  }
+}
