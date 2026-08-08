@@ -1,0 +1,30 @@
+{
+  "roadmap": {
+    "careerGoal": "",
+    "shortTermGoal": [],
+    "mediumTermGoal": [],
+    "longTermGoal": [],
+    "milestones": [
+      {
+        "stage": "Foundation",
+        "tasks": []
+      },
+      {
+        "stage": "Skill Development",
+        "tasks": []
+      },
+      {
+        "stage": "Project Building",
+        "tasks": []
+      },
+      {
+        "stage": "Career Preparation",
+        "tasks": []
+      },
+      {
+        "stage": "Job Readiness",
+        "tasks": []
+      }
+    ]
+  }
+}
